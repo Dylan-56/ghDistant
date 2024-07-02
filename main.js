@@ -7,7 +7,6 @@ document.querySelector('#app').innerHTML = `
         <p>hello</p>
         <p style="color: blue;">${HELLO_WORLD_TEXT}</p>
   </div>
-  
 `
 
 document.title= HELLO_WORLD_TITLE

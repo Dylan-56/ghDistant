@@ -1,0 +1,1 @@
+Pour le hook de pre commit : répondre y écrira la date du jour dans suivi/commitInfo.txt
